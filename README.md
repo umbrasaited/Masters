@@ -3,7 +3,7 @@ This repository is created for a purpose of storing code related to Masters Thes
 
 The repository contains 3 folders:
 
-1. Initialization
+1. [Initialization](https://github.com/umbrasaited/Masters/tree/main/Initialization)
 2. Clustering
 3. Classification
 
